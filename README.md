@@ -1,29 +1,10 @@
-<!-- ### Hi there 👋
 
-
-**ivanfrancajunior/ivanfrancajunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1>Hello there 👋 My name is Ivan França de Oliveira Junior </h1>
-
-
-<h2> I'm studying to become a Front-end Web Developer </h2>
+ # **Hi there my name is Ivan França de Oliveira Junior** 👋 #
 
 
 ### About me:
 
-I'm a 28 years old developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+I'm a 29 year old developer. I love to code and figure out how to solve problems using technology. My main focus is fullstack development, currently focused on fornt-end making applications that impact the lives of thousands of users.
 
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
@@ -31,7 +12,10 @@ I'm a 28 years old developer. I love to code and figure it out how to solve deep
 * 🚀  I'm currently free to working.
 * 🧠  I'm learning Advanced ReactJS, Unit Tests and NodeJS programming language.
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives!
-* ⚡  I love sports and my favorite is Basket and Soccer!
+<br/>
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ivanfrancajunior&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 
 
@@ -43,6 +27,7 @@ I'm a 28 years old developer. I love to code and figure it out how to solve deep
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="[https://nodejs.org/en/](https://sass-lang.com/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 
 
 
