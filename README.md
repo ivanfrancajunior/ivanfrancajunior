@@ -1,5 +1,5 @@
 
- # **Hi there my name is Ivan França de Oliveira Junior** 👋 #
+ # **Hello! My name is Ivan Junior** 👋 #
 
 
 ### About me:
