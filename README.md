@@ -19,7 +19,7 @@ I'm a 29 year old developer. I love to code and figure out how to solve problems
 
 
 
-### Skills
+### Skills 🛠
 
 <p align="left">
  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -36,7 +36,7 @@ I'm a 29 year old developer. I love to code and figure out how to solve problems
 
 
 
-### Socials
+### Socials 🤝 
 
 <h2 align="left"> <a href="https://github.com/ivanfrancajunior" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ivanjrdev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </h2>
 
