@@ -1,42 +1,63 @@
-
- # **Hello! My name is Ivan Junior** 👋 #
-
-
-### About me:
-
-I'm a 29 year old developer. I love to code and figure out how to solve problems using technology. My main focus is fullstack development, currently focused on fornt-end making applications that impact the lives of thousands of users.
+# <div align="center">Olá, meu nome é Ivan Junior 👋</div>
 
 
-* 🌍  I'm based in Rio de Janeiro, Brazil
-* ✉️  You can contact me at [contato.ivanfrancajr@gmail.com](mailto:contato.ivanfrancajr@gmail.com)
-* 🚀  I'm currently free to working.
-* 🧠  I'm learning Advanced ReactJS, Unit Tests and NodeJS programming language.
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives!
-<br/>
-<br/>
+Olá! Meu nome é Ivan Junior, sou um desenvolvedor iniciante em transição de carreira profissional, com foco em Front End Web. Tenho conhecimentos em JavaScript, HTML 5, CSS3, Sass, TailwindCSS, MongoDB e TypeScript.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ivanfrancajunior&theme=dark&mode=weekly)](https://git.io/streak-stats)
+Atualmente, estou em busca de minha primeira oportunidade na área de Front End Web e comprometo-me a contribuir de forma eficiente e eficaz em projetos desafiadores. Estou constantemente aprimorando meus conhecimentos para acompanhar as novas tecnologias e tendências do mercado, e comprometo-me a oferecer sempre o melhor trabalho possível.
+
+Se você procura um desenvolvedor comprometido, dedicado e empenhado em crescer e desenvolver-se profissionalmente, estou à disposição para conversarmos. Adoraria poder compartilhar minhas habilidades e colaborar em projetos inovadores e desafiadores.</div>
+
+### <div align="center">Sobre mim 😍 :</div>
+
+<div align="center">
+<li  >🌍  Moro no Rio de Janeiro, Brasil.
+<li> 🚀Atualmente estou livre para trabalhar.
+<li> 🧠   
+Atualmente estou aprendendo e aprimorando minhas habilidades com ReactJS, testes com Jest, Node e Express e em breve Next.Js.
+<li> 🤝  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas!
+</div>
+
+### <div align="center">📫 Como entrar em contato:</div>
+
+<div align="center">
+  <a href="https://twitter.com/{seu-twitter}"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://discord.gg/{seu-discord}"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord"></a>
+  <a href="mailto:{seu-gmail}"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/{seu-linkedin}"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
+
+### <div align="center">🛠️ Ferramentas e Tecnologias</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black" alt="ReactJS">
+  <img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS">
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="ExpressJS">
+  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+</div>
+
+### <div align="center">📚 Bibliotecas</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="Styled Components">
+  <img src="https://img.shields.io/badge/-Formik-EEEEE0?style=flat-square&logo=formik&logoColor=black" alt="Formik">
+  <img src="https://img.shields.io/badge/-Yup-663399?style=flat-square&logo=yup&logoColor=white" alt="Yup">
+  <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest">
+  <img src="https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=flat-square&logo=testing-library&logoColor=white" alt="React Testing Library">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</div>
+
+### <div align="center">📈 Estatísticas</div>
 
 
-
-### Skills 🛠
-
-<p align="left">
- <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
- <a href="https://sass-lang.com/documentation/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
- <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
- <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg" width="36" height="36" alt="HTML5" /></a>
- <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="HTML5" /></a>
-
-
-
-
-
-### Socials 🤝 
-
-<h2 align="left"> <a href="https://github.com/ivanfrancajunior" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ivanjrdev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </h2>
+<div align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ivanfrancajunior&theme=dark&mode=weekly"  alt="GitHub Streak">
+</div>
 
