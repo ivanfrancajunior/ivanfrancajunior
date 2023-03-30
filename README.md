@@ -1,7 +1,7 @@
 # <div align="center">Olá, meu nome é Ivan Junior 👋</div>
 
 
-Olá! Meu nome é Ivan Junior, sou um desenvolvedor iniciante em transição de carreira profissional, com foco em Front End Web. Tenho conhecimentos em JavaScript, HTML 5, CSS3, Sass, TailwindCSS, MongoDB e TypeScript.
+Sou um desenvolvedor iniciante em transição de carreira, com foco em Front-end Web. Tenho conhecimentos em JavaScript, HTML 5, CSS3, Sass, TailwindCSS, MongoDB e TypeScript.
 
 Atualmente, estou em busca de minha primeira oportunidade na área de Front End Web e comprometo-me a contribuir de forma eficiente e eficaz em projetos desafiadores. Estou constantemente aprimorando meus conhecimentos para acompanhar as novas tecnologias e tendências do mercado, e comprometo-me a oferecer sempre o melhor trabalho possível.
 
