@@ -20,10 +20,10 @@ Atualmente estou aprendendo e aprimorando minhas habilidades com ReactJS, testes
 ### <div align="center">📫 Como entrar em contato:</div>
 
 <div align="center">
-  <a href="https://twitter.com/{seu-twitter}"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://twitter.com/JOTA94"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://discord.gg/{seu-discord}"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord"></a>
-  <a href="mailto:{seu-gmail}"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/{seu-linkedin}"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:contato.ivanfrancajr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/ivanjrdev/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
 ### <div align="center">🛠️ Ferramentas e Tecnologias</div>
