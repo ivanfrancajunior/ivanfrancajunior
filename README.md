@@ -12,8 +12,6 @@ Se você procura um desenvolvedor comprometido, dedicado e empenhado em crescer 
 <div >
 <li  >🌍  Moro no Rio de Janeiro, Brasil.
 <li> 🚀Atualmente estou livre para trabalhar.
-<li> 🧠   
-Atualmente estou aprendendo e aprimorando minhas habilidades com ReactJS, testes com Jest, Node e Express e em breve Next.Js.
 <li> 🤝  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas!
 </div>
 
