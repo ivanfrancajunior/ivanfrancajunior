@@ -38,7 +38,7 @@ Atualmente estou aprendendo e aprimorando minhas habilidades com ReactJS, testes
   <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="ExpressJS">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
-
+<br>
 <div align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ivanfrancajunior&theme=dark&mode=weekly"  alt="GitHub Streak">
 
