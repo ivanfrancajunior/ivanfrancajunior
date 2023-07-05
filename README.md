@@ -36,24 +36,9 @@ Atualmente estou aprendendo e aprimorando minhas habilidades com ReactJS, testes
   <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black" alt="ReactJS">
   <img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS">
   <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="ExpressJS">
-  <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </div>
 
-### <div align ='center'>📚 Bibliotecas</div>
-
-<div align ='center'>
-  <img src="https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="Styled Components">
-  <img src="https://img.shields.io/badge/-Formik-EEEEE0?style=flat-square&logo=formik&logoColor=black" alt="Formik">
-  <img src="https://img.shields.io/badge/-Yup-663399?style=flat-square&logo=yup&logoColor=white" alt="Yup">
-  <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest">
-  <img src="https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=flat-square&logo=testing-library&logoColor=white" alt="React Testing Library">
-  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
-  
-</div>
 
 ### <div>📈 Estatísticas</div>
 
