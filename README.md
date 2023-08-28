@@ -1,25 +1,17 @@
-# <div>Olá, meu nome é Ivan Junior 👋</div>
+# <div align ='center' > Olá, meu nome é Ivan Junior 👋 </div>
 
 
-Sou um desenvolvedor iniciante em transição de carreira, com foco em Front-end Web. Tenho conhecimentos em JavaScript, HTML 5, CSS3, Sass, TailwindCSS, MongoDB e TypeScript.
+<br/>
 
-Atualmente, estou em busca de minha primeira oportunidade na área de Front End Web e a contribuir de forma eficiente e eficaz em projetos desafiadores. Estou constantemente aprimorando meus conhecimentos para acompanhar as novas tecnologias e tendências do mercado, e comprometo-me a oferecer sempre o melhor trabalho possível.
 
-Se você procura um desenvolvedor comprometido, dedicado e empenhado em crescer e desenvolver-se profissionalmente, estou à disposição para conversarmos. Adoraria poder compartilhar minhas habilidades e colaborar em projetos inovadores e desafiadores.</div>
-
-### <div >Sobre mim 😍 :</div>
-
-<div >
-<li  >🌍  Moro no Rio de Janeiro, Brasil.
-<li> 🚀Atualmente estou livre para trabalhar.
-<li> 🤝  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas!
-</div>
+Sou um desenvolvedor Front-End em busca de uma oportunidade para aplicar minhas habilidades na criação de interfaces atraentes e intuitivas, além de desenvolver sistemas inovadores.<br/>
+Atualmente, estou focado em tecnologias web essenciais, como Javascript, Typescript, Reactjs, NodeJs e Tailwind CSS. Estou sempre em busca de desafios que impulsionem meu crescimento como desenvolvedor, unindo criatividade e competências técnicas.<br/>
+Estou à disposição para uma conversa produtiva sobre como posso contribuir com um novo projeto e explorar maneiras de agregar a ele com minhas habilidades.</div>
 
 ### <div align ='center'>📫 Como entrar em contato:</div>
 
 <div align ='center'>
   <a href="https://twitter.com/JOTA94"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://discord.gg/{seu-discord}"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord"></a>
   <a href="mailto:contato.ivanfrancajr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/ivanjrdev/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
@@ -38,6 +30,7 @@ Se você procura um desenvolvedor comprometido, dedicado e empenhado em crescer 
 </div>
 <br>
 <div align="center">
+  <br/>
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ivanfrancajunior&theme=dark&mode=weekly"  alt="GitHub Streak">
 
 
