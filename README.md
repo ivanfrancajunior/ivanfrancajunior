@@ -35,4 +35,4 @@ Se você procura um desenvolvedor comprometido, dedicado e empenhado em crescer 
 <div align="center">
   <br/>
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=ivanfrancajr&theme=react&hide_border=true&border_radius=12&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ivanfrancajunior&theme=react&hide_border=true&border_radius=12&card_width=500)](https://git.io/streak-stats)
