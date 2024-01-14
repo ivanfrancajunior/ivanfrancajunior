@@ -5,7 +5,7 @@
 
 
 Olá eu sou Ivan Junior e sou um Desenvolvedor Web dedicado à criação de sistemas inovadores e experiências de usuário excepcionais. 
-Tenho experiência em Javascript,Typescript, React.js, Node.js e Tailwind e atualmente estou explorando o universo do PHP sem uso de frameworks para expandir meu conhecimento.
+Tenho experiência em Javascript,Typescript, React.js, Node.js e Tailwind e atualmente estou explorando o universo do Python com intuito de expandir meu conhecimento.
 
 Busco desafios que estimulem meu crescimento, onde minha criatividade e
 paixão pela programação possam florescer, contribuindo para o
@@ -34,5 +34,5 @@ Se você procura um desenvolvedor comprometido, dedicado e empenhado em crescer 
 <br>
 <div align="center">
   <br/>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ivanfrancajunior&theme=dark&mode=weekly"  alt="GitHub Streak">
-
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ivanfrancajr&theme=react&hide_border=true&border_radius=12&card_width=500)](https://git.io/streak-stats)
