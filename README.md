@@ -28,7 +28,7 @@ Se você procura um desenvolvedor comprometido, dedicado e empenhado em crescer 
 <div align="center">
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,py,mongodb,mysql,react,nextjs,express,fastapi,django&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,py,mongodb,mysql,react,nextjs,express,flask,fastapi,django&theme=dark)](https://skillicons.dev)
 
 </div>
 <br>
