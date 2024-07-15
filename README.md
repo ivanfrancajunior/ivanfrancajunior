@@ -6,7 +6,7 @@
   class WhoAmI:
     user = 'Ivan França de Oliveira Junior'
     currently_learning = ["Typescript", "Python"]
-    fun_fact = "KDOT >, no jokes just facts"
+    fun_fact = "Pineapple and tomato juice should always be taught. It's not funny, just facts"
 	  hobbies = [
 				'Music',
                   'Chilling',
