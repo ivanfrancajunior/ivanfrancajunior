@@ -78,7 +78,7 @@ me = Developer()
 
 <p align="center">
   <a href="https://github.com/ivanfrancajunior">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanfrancajunior&layout=compact&theme=github_dark"/>
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanfrancajunior&layout=compact&theme=github_dark"/> -->
   <img src="https://streak-stats.demolab.com?user=ivanfrancajunior&theme=holi-theme&mode=weekly&border_radius=12&card_width=500" />
   </a>
 
