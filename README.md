@@ -1,77 +1,101 @@
-<img src='banner.png'/>
+<p align="center">
+  <img src="banner.png" alt="header" width="800"/>
 
-## Who am I?
+###
 
- ```python
-  class WhoAmI:
-    user = 'Ivan França de Oliveira Junior'
-    currently_learning = ["Typescript", "Python"]
-    fun_fact = "Pineapple and tomato juice should always be taught. It's not funny, just facts"
-	  hobbies = [
-				'Music',
-                  'Chilling',
-			 	'Gaming',
-				    'Action movies with clearly impossible scenes',
-        'Street culture',
-            'black screen, colored letters'
-			]
+  <h3 align="center">Hi, I'm Ivan França 👋</h3>
+  <p align="center">
+   <b>Full-Stack Developer | Data Enthusiast | Tech Explorer</b>
+  </p>
 
-	def getCity():
-		return Rio_de_Janeiro()
-
-	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
-
- ```
-
-
-## Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ivanfrancajunior&&show_icons=true&count_private=true&theme=github_dark">|[![GitHub Streak](https://streak-stats.demolab.com?user=ivanfrancajunior&theme=holi-theme&mode=weekly&border_radius=12&card_width=500)](https://git.io/streak-stats)
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanfrancajunior&layout=compact&theme=github_dark"/>|
-
-## Programming Languages
-
-<p>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Typescript%20-blue.svg?logo=typescript&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Python%20-gray.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+  <img src="https://i.imgur.com/waxVImv.png" width="100%"/>
 </p>
 
-## Frameworks and Libraries
-<p>
-   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-gray.svg?logo=react&logoColor=white"></a>
-   <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-gray.svg?logo=express&logoColor=white"></a>
-   <a href="#"><img alt="Nest" src="https://img.shields.io/badge/Nest-gray.svg?logo=nestjs&logoColor=white"></a>
-   <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-gray.svg?logo=flask&logoColor=white"></a>
+### 🧑💻 About Me
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Ivan França"
+        self.age = 31
+        self.location = 'Rio de Janeiro, Brazil'
+        self.current_focus = ["TypeScript", "Python", "Data Science"]
+        self.passions = [
+            "Photography 📸",
+            "Music 🎶"´,
+            "Gaming Mods 🎮",
+            "Urban Culture 🌆"
+        ]
+        self.manifesto = [
+            "Believer in pineapple on pizza 🍍+🍕",
+            "Architect of impossible movie scenarios 🎥",
+            "Curator of black-terminal aesthetics 🖤"
+        ]
+
+    def ambitions(self):
+        return ["Improve my people's lives through technology", "Master System Design", "Be a cool person"]
+
+
+
+me = Developer()
+```
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%"/>
+
+### 🛠️ Tech Stack
+
+**Languages:**
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Python](https://skillicons.dev/icons?i=python)
+
+**Frontend:**
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+
+**Backend:**
+![NestJS](https://skillicons.dev/icons?i=nestjs)
+![Express](https://skillicons.dev/icons?i=express)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Django](https://skillicons.dev/icons?i=django)
+
+**Tools & DevOps:**
+![Git](https://skillicons.dev/icons?i=git)
+![Docker](https://skillicons.dev/icons?i=docker)
+![SQL](https://skillicons.dev/icons?i=postgresql)
+![FIGMA](https://skillicons.dev/icons?i=figma)
+
+**📊 Data Science Stack**
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white)
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%"/>
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/ivanfrancajunior">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanfrancajunior&layout=compact&theme=github_dark"/>
+  <img src="https://streak-stats.demolab.com?user=ivanfrancajunior&theme=holi-theme&mode=weekly&border_radius=12&card_width=500" />
+  </a>
+
 </p>
 
-## Connect with Me
+<img src="https://i.imgur.com/waxVImv.png" width="100%"/>
 
+### 🌐 Let's Connect!
 
 <p align="center">
   <a href="https://linkedin.com/in/ivan-fo-junior">
-  <img alt="Linkedin" title="Ivan Junior Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/ivanfrancajunior">
-  <img alt="Github" title="Ivan Junior Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   </a>
- </p>
- <p align="center">
   <a href="mailto:contato.ivanfrancajr@gmail.com">
-  <img alt="Gmail" title="Ivan Junior Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
-  <a href="https://t.me/#">
-  <img alt="Telegram" title="Ivan Junior Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-<a href="http://twitter.com/JOTA94">
-<img alt="Twitter" title="Ivan Junior Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
 </p>
-
-------
-[Ivan Junior](https://github.com/ivanfrancajunior)
-Last Edited on - 11/07/2024
