@@ -5,7 +5,7 @@
 
   <h3 align="center">Hi, I'm Ivan França 👋</h3>
   <p align="center">
-   <b>Full-Stack Developer | Data Enthusiast | Tech Explorer</b>
+   <b>Back-end Developer | Data Enthusiast | Tech Explorer</b>
   </p>
 
   <img src="https://i.imgur.com/waxVImv.png" width="100%"/>
