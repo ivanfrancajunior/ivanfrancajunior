@@ -56,7 +56,7 @@ me = Developer()
 **Backend:**
 ![NestJS](https://skillicons.dev/icons?i=nestjs)
 ![Express](https://skillicons.dev/icons?i=express)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![FastAPI](https://skillicons.dev/icons?i=flask)
 ![Django](https://skillicons.dev/icons?i=django)
 
 **Tools & DevOps:**
